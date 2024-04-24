@@ -1,0 +1,4 @@
+# Instructions for ignoring files for Git version control
+
+## ignore .DS_Store as it just has Mac-specific information
+.DS_Store
